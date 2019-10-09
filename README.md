@@ -1,1 +1,2 @@
-# blog-prototype_react-native
+# Small React Native blog prototype with expo
+>> npm start
